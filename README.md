@@ -107,3 +107,20 @@ Contributions are welcome! Please fork the repository and submit a pull request.
 ## 📄 License
 
 This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
+
+
+## 🖼️ Screenshots
+
+![Screenshot](assets/Screenshot%202026-06-18%20214046.png)
+
+![Screenshot](assets/Screenshot%202026-06-18%20214159.png)
+
+![Screenshot](assets/Screenshot%202026-06-18%20214249.png)
+
+![Screenshot](assets/Screenshot%202026-06-18%20214333.png)
+
+![Screenshot](assets/Screenshot%202026-06-18%20214421.png)
+
+![Screenshot](assets/Screenshot%202026-06-18%20214457.png)
+
+
