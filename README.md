@@ -1,4 +1,4 @@
-# 🏢 Startup Management System
+﻿# 🏢 Startup Management System
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Node.js](https://img.shields.io/badge/Node.js-18+-339933?logo=nodedotjs&logoColor=white)](https://nodejs.org/)
@@ -8,6 +8,22 @@
 A full-stack startup management platform built for the **Zevenz** organization. This system streamlines founder onboarding, attendance tracking, activity logging, team chat, subscription plan management, and account reactivation — all within a modern, responsive dashboard.
 
 ---
+
+
+## ðŸ–¼ï¸ Screenshots
+
+![Screenshot](assets/Screenshot%202026-06-18%20214046.png)
+
+![Screenshot](assets/Screenshot%202026-06-18%20214159.png)
+
+![Screenshot](assets/Screenshot%202026-06-18%20214249.png)
+
+![Screenshot](assets/Screenshot%202026-06-18%20214333.png)
+
+![Screenshot](assets/Screenshot%202026-06-18%20214421.png)
+
+![Screenshot](assets/Screenshot%202026-06-18%20214457.png)
+
 
 ## ✨ Features
 
@@ -122,5 +138,3 @@ This project is licensed under the MIT License — see the [LICENSE](LICENSE) fi
 ![Screenshot](assets/Screenshot%202026-06-18%20214421.png)
 
 ![Screenshot](assets/Screenshot%202026-06-18%20214457.png)
-
-
